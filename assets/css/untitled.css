@@ -1,0 +1,10 @@
+#profile_image {
+  width: 200px;
+  border-radius: 25px;
+  /*box-shadow: var(--bs-blue);*/
+}
+
+#sub {
+  margin-top: 10px;
+}
+
